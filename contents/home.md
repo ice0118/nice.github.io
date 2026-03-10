@@ -18,7 +18,7 @@ Main research interests: agricultural large language models, agricultural aircra
 • Research Focus: Precision Agricultural Aviation Technology, Computer Vision <br>
 • GPA: 1/250 (National Scholarship, 2025)<br><br>
 
-**Shandong University of Science and Technology**, Bachelor of Management Science and Engineering (2019 – 2023)  
+**Shandong University of Science and Technology**, Bachelor of Information Management & Information System (2019 – 2023)  
 • Relevant Coursework: Data Mining, Machine Learning, Mathematical Modeling, Software Engineering, Data Structures, Computer Organization, Computer Networks, Operating Systems, etc. <br> <br>
 
 #### Research Interests  
