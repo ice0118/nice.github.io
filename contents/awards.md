@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 国家奖学金, 2025.(National Scholarship, 2025)  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 研究生学术之星, 2026.(Graduate Academic Star, 2026) 
