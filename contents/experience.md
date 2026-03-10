@@ -1,12 +1,11 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**Oct 2024 – Jun 2025 | Project Principal**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- Qinghang "Smart" Plant Protection: Key Technologies and Equipment for Precision Low-Altitude Plant Protection Operations <br>
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Participated in the Challenge Cup National College Students' Extracurricular Academic and Technological Works Competition, and won the University-level Special Prize (only 7 projects in the technological invention category across the university) as well as the Guangdong Provincial Special Prize.  
+- Guided undergraduate students in applying for the National Innovation and Entrepreneurship Training Program, and obtained one national-level and one provincial-level one-year research project approval respectively.   
 
 ---
 
