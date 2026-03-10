@@ -1,4 +1,4 @@
-### **Software Engineer Intern**  
+### **Innovation and Entrepreneurship Project**  
 **Oct 2024 – Jun 2025 | Project Principal**  
 
 - Qinghang "Smart" Plant Protection: Key Technologies and Equipment for Precision Low-Altitude Plant Protection Operations <br>
